@@ -13,7 +13,13 @@ Windows:
 ## Install packages
 pip install pyttsx3
 
-## Run code
+## The first use cas is a simple speaker program (Text-to-speech)
+The given test is spoken by the programm via the audio device
+The main library used here is pyttsx3.
+Documentation:
+https://pyttsx3.readthedocs.io/
+
+### Run code
 python my_audio1_speaker.py
 
 
